@@ -4,7 +4,7 @@ import requests
 
 st.title("HalluGuard")
 
-client = OpenAI(api_key=st.secrets["OPENAI_API_KEY"])
+client = OpenAI(api_key="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")
 chatBotResponse = None
 
 #Classify Fact and Opinion Endpoint
