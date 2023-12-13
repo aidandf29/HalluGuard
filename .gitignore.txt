@@ -1,0 +1,8 @@
+# Ignore TOML files
+*.toml
+
+# Ignore logs
+*.log
+
+# Ignore temporary directories
+/temp/
